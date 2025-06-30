@@ -1,0 +1,10 @@
+In this lab. exercise you need to provide user authentication. You should provide registration, user login and management of user login information.
+
+User registration
+You need to create a system for user registration, users should be able to register on your application using necessary information such as username, email and secure password.
+
+User login
+Once the users are registered, they should be able to log in to the system, so you should implement a user login system that checks the entered data and compares it with the data you saved during registration.
+
+Managing login information
+User data is crucial, you need to store and manage it securely, you must ensure the confidentiality and integrity of user data.
