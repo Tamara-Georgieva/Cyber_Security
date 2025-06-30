@@ -1,0 +1,8 @@
+Steps required for the success of the exercise (100 points):
+  Generate a self-signed Root Certificate Authority (FINKI CA).
+  Generate of first Intermediate Certificate Authority (IB CA), which is signed by FINKI CA, and signs by Lab CA
+  Generate a second Intermediate Certificate Authority (Lab CA), which is signed by the IB CA, signs the client and server certificates
+  Generate one server and one client certificate each (with your index)
+  Install a suitable web server (Apache/Nginx, IIS) for your web application from the transition exercises and in doing so:
+deploy your web application to the server
+configure it to work with the server certificate (a green padlock should appear in the address bar :) )
