@@ -1,0 +1,10 @@
+In this lab. exercise, you need to provide user authorization on the application from the previous lab. exercise. Create role-based access control, granting/denying access to specific parts of the application. 
+
+Defining and managing roles
+You need to define roles for your application with appropriate permissions on specific parts of the application.
+
+Access control
+Once you have defined roles, you need to implement access control based on the appropriate roles by granting/denying access.
+
+Role assignment and testing
+Assign different roles to different users and test access control.
